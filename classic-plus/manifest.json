@@ -1,0 +1,5 @@
+[
+    { "version": "stable-20221124", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Classic%20Plus%20Archive/rev.20221124.jar", "json": "mod_classicplus", "latest": true },
+    { "version": "v0.1-1", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Classic%20Plus%20Archive/0.1-1.jar", "json": "mod_classicplus", "latest": false },
+    { "version": "v0.1-pre", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Classic%20Plus%20Archive/0.1-pre.jar", "json": "mod_classicplus", "latest": false }
+]
