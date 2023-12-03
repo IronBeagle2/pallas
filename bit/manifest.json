@@ -1,0 +1,4 @@
+[
+    { "version": "v0.23a", "type": "jarmod", "url": "http://pallas.dejvoss.cz/bit/bit_0.23a.zip", "json": "b1.7.3", "latest": true },
+    { "version": "v0.0.22a", "type": "jarmod", "url": "http://pallas.dejvoss.cz/bit/bit_0.0.22a.zip", "json": "b1.7.3", "latest": false }
+]
