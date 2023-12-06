@@ -7,6 +7,6 @@
     { "version": "1.3.0-pre4", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5B04.43/ADV.1.3.0.Prerelease.4.zip", "json": "1.2.5", "latest": false },
     { "version": "1.3.0-pre3", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5B03.42/AD.1.3.0.Prerelease.3.zip", "json": "1.2.5", "latest": false },
     { "version": "1.3.0-pre2", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5B02.41/AD.1.3.0.Prerelease.2.zip", "json": "1.2.5", "latest": false },
-    { "version": "1.3.0-pre", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5B01.40/AD.1.3.0.Prerelease.zip", "json": "1.2.5", "latest": false }
+    { "version": "1.3.0-pre", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5B01.40/AD.1.3.0.Prerelease.zip", "json": "1.2.5", "latest": false },
     { "version": "0.2", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v0.02.00.00-R/AD.alpha.0.2.zip", "json": "1.2.5", "latest": false }
 ]
