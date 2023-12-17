@@ -1,0 +1,5 @@
+[
+    { "version": "v3.4.2_01", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.4.2_02/NFC_v3.4.2_02.jar", "json": "mod_nfc", "latest": true },
+    { "version": "v3.4.2_01", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.4.2_01/NFC.v3.4.2_01.jar", "json": "mod_nfc", "latest": false },
+    { "version": "v3.4.2", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.4.2/NFC_v3.4.2.jar", "json": "mod_nfc", "latest": false }
+]
