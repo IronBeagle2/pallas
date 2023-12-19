@@ -1,8 +1,8 @@
 [
-    { "version": "v0.36", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.36.jar", "json": "in-20100125", "latest": true },
-    { "version": "v0.35", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.35.jar", "json": "in-20100125", "latest": false },
-    { "version": "v0.34", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.34.jar", "json": "in-20100125", "latest": false },
-    { "version": "v0.33", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.33.jar", "json": "in-20100125", "latest": false },
-    { "version": "v0.32", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.32.jar", "json": "in-20100125", "latest": false },
-    { "version": "v0.31", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.31.jar", "json": "in-20100125", "latest": false }
+    { "version": "v0.36", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.36.jar", "json": "in-20100125", "latest": true, "supplement": null },
+    { "version": "v0.35", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.35.jar", "json": "in-20100125", "latest": false, "supplement": null },
+    { "version": "v0.34", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.34.jar", "json": "in-20100125", "latest": false, "supplement": null },
+    { "version": "v0.33", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.33.jar", "json": "in-20100125", "latest": false, "supplement": null },
+    { "version": "v0.32", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.32.jar", "json": "in-20100125", "latest": false, "supplement": null },
+    { "version": "v0.31", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Order%20of%20the%20Stone%20Archive/v0.31.jar", "json": "in-20100125", "latest": false, "supplement": null }
 ]
