@@ -1,0 +1,14 @@
+[
+  {
+    "version": "a1.0.8-pre3",
+    "type": "json",
+    "url": "",
+    "json": "b1.7.3",
+    "latest": true,
+    "supplement": [
+      "http://codex-ipsa.dejvoss.cz/launcher/modloader/risugami/modloader-b1.7.3.zip",
+      "http://codex-ipsa.dejvoss.cz/launcher/modloader/risugami/modloadermp-b1.7.3.zip",
+      "https://www.sithgames.com/projects/minecraft/mods/ap-alpha-1.0.8-pre3.zip"
+    ]
+  }
+]
