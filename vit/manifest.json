@@ -1,5 +1,6 @@
 [
     { "version": "latest", "type": "jarmod", "url": "https://sithgames.com/projects/minecraft/mods/voxelsintime/client.zip", "json": "b1.7.3", "latest": true, "supplement": null },
+    { "version": "v0.20", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.12", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.12.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11.4-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.4-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
