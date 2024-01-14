@@ -9,5 +9,5 @@
     { "version": "1.3.0-pre2", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5B02.41/AD.1.3.0.Prerelease.2.zip", "json": "1.2.5", "latest": false, "supplement": null },
     { "version": "1.3.0-pre", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-5B01.40/AD.1.3.0.Prerelease.zip", "json": "1.2.5", "latest": false, "supplement": null },
 
-    { "version": "in-20200727", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-2B01.01/AD.indev.20200727.zip", "json": "1.2.5", "latest": false, "supplement": ["http://codex-ipsa.dejvoss.cz/launcher/modloader/risugami/modloader-1.2.5.zip"] }
+    { "version": "in-20200727", "type": "jarmod", "url": "http://codex-ipsa.dejvoss.cz/launcher/modloader/risugami/modloader-1.2.5.zip", "json": "1.2.5", "latest": false, "supplement": ["https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.00.00-2B01.01/AD.indev.20200727.zip"] }
 ]
