@@ -1,7 +1,7 @@
 [
     { "version": "v0.3.1", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Infdev%20Plus%20Archive/0.3.1.jar", "json": "mod_infdevplus2", "latest": true, "supplement": null },
-    { "version": "v0.3", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Infdev%20Plus%20Archive/0.3.jar", "json": "mod_infdevplus2", "latest": true, "supplement": null },
-    { "version": "v0.2", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Infdev%20Plus%20Archive/0.2.jar", "json": "mod_infdevplus2", "latest": true, "supplement": null },
+    { "version": "v0.3", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Infdev%20Plus%20Archive/0.3.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
+    { "version": "v0.2", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Infdev%20Plus%20Archive/0.2.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
     { "version": "v0.1.1", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Infdev%20Plus%20Archive/0.1.1.jar", "json": "mod_infdevplus", "latest": false, "supplement": null },
     { "version": "v0.1", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Infdev%20Plus%20Archive/0.1.jar", "json": "mod_infdevplus", "latest": false, "supplement": null }
 ]
