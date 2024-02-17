@@ -1,5 +1,5 @@
 [
-    { "version": "v1.1.2", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/Other-Small-Mods/releases/download/california/infdev-california-edition-1.1.2.zip", "json": "inf-20100630-1340", "latest": true, "supplement": null }
+    { "version": "v1.1.2", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/Other-Small-Mods/releases/download/california/infdev-california-edition-1.1.2.zip", "json": "inf-20100630-1340", "latest": true, "supplement": null },
     { "version": "v1.1.1", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/Other-Small-Mods/releases/download/california/infdev-california-edition-1.1.1.zip", "json": "inf-20100630-1340", "latest": true, "supplement": null },
     { "version": "v1.1", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/Other-Small-Mods/releases/download/california/infdev-california-edition-1.1.post.modjam.zip", "json": "inf-20100630-1340", "latest": false, "supplement": null },
     { "version": "v1.0", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/Other-Small-Mods/releases/download/california/infdev-california-edition.zip", "json": "inf-20100630-1340", "latest": false, "supplement": null }
