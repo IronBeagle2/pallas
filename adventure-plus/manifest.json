@@ -1,5 +1,5 @@
 [
-    { "version": "1.3.10.80", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.02/ADV.1.3.10.80.zip", "json": "1.2.5", "latest": false, "supplement": null },
+    { "version": "1.3.10.80-af2024", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.02/ADV.1.3.10.80.zip", "json": "1.2.5", "latest": false, "supplement": null },
     { "version": "1.4.0-snap-20240123", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.04-A0123/ADV.1.4.0.snap-20240123.zip", "json": "1.2.5", "latest": false, "supplement": null },
     
     { "version": "1.3.2", "type": "jarmod", "url": "https://github.com/ggggaaaannnngggg/AdventurePlus/releases/download/v1.03.02.00-R/ADV.1.3.2.zip", "json": "1.2.5", "latest": true, "supplement": null },
