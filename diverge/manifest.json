@@ -1,5 +1,5 @@
 [
-    { "version": "0.3.1.1", "type": "jarmod", "url": "https://github.com/BlueStaggo/MCDiverge/releases/download/0.3.1.1/mcdiverge.zip", "json": "a1.1.2_01" },
-    { "version": "0.3.1", "type": "jarmod", "url": "https://github.com/BlueStaggo/MCDiverge/releases/download/0.3.1/mcdiverge.zip", "json": "a1.1.2_01" },
-    { "version": "0.3", "type": "jarmod", "url": "https://github.com/BlueStaggo/MCDiverge/releases/download/0.3/mcdiverge.zip", "json": "a1.1.2_01" }
+    { "version": "0.3.1.1", "type": "jarmod", "url": "https://github.com/BlueStaggo/MCDiverge/releases/download/0.3.1.1/mcdiverge.zip", "json": "a1.1.2_01", "latest": true, "supplement": null },
+    { "version": "0.3.1", "type": "jarmod", "url": "https://github.com/BlueStaggo/MCDiverge/releases/download/0.3.1/mcdiverge.zip", "json": "a1.1.2_01", "latest": false, "supplement": null },
+    { "version": "0.3", "type": "jarmod", "url": "https://github.com/BlueStaggo/MCDiverge/releases/download/0.3/mcdiverge.zip", "json": "a1.1.2_01", "latest": false, "supplement": null }
 ]
