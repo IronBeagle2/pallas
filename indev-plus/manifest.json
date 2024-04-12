@@ -1,5 +1,6 @@
 [
-    { "version": "stable-20242002", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Indev%20Plus%20Archive/rev.20242002.jar", "json": "mod_indevplus", "latest": true, "supplement": null },
+    { "version": "stable-20240331", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Indev%20Plus%20Archive/rev.20240331.jar", "json": "mod_indevplus", "latest": true, "supplement": null },
+    { "version": "stable-20240220", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Indev%20Plus%20Archive/rev.20240220.jar", "json": "mod_indevplus", "latest": false, "supplement": null },
     { "version": "stable-20231127", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Indev%20Plus%20Archive/rev.20231127.jar", "json": "mod_indevplus", "latest": false, "supplement": null },
     { "version": "stable-20230831", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Indev%20Plus%20Archive/rev.20230831.jar", "json": "mod_indevplus", "latest": false, "supplement": null },
     { "version": "stable-20230818", "type": "cusjar", "url": "https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/main/Indev%20Plus%20Archive/rev.20230818.jar", "json": "mod_indevplus", "latest": false, "supplement": null },
