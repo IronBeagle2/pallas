@@ -1,9 +1,18 @@
 [
-    { "version": "latest", "type": "jarmod", "url": "https://sithgames.com/projects/minecraft/mods/voxelsintime/client.zip", "json": "b1.7.3", "latest": true, "supplement": null },
-    
+    { "version": "latest", "type": "jarmod", "url": "https://www.sithgames.com/projects/minecraft/mods/voxelsintime/client_dev.zip", "json": "b1.7.3", "latest": true, "supplement": null },
+
     { "version": "v0.20_02", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20_02.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.20_01", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20_01.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.20", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
+    { "version": "v0.15", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.14", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.14.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.13.5", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.5.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.13.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.13.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.13.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.13.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.13", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.12", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.12.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11.4-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.4-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
