@@ -1,6 +1,23 @@
 [
     { "version": "latest", "type": "jarmod", "url": "https://www.sithgames.com/projects/minecraft/mods/voxelsintime/client_dev.zip", "json": "b1.7.3", "latest": true, "supplement": null },
 
+    { "version": "dev-v0.21-20240331-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240331-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240331", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240331.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240330-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240330-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240330-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240330-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240330", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240330.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240329-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240329-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240329-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240329-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240329", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240329.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240326", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240326.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240308-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240308-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240308", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240308.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240304", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240304.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240303-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240303-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-20240303", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240303.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.21", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
     { "version": "v0.20_02", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20_02.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.20_01", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20_01.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.20", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20.zip", "json": "b1.7.3", "latest": false, "supplement": null },
@@ -33,21 +50,27 @@
     { "version": "v0.15-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.15-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.15", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.14", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.14.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.13.5", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.5.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.13.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.13.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.13.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.13.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.13", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.12", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.12.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.11.4-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.4-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.11", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.11.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.10.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.10.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.10", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.10.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.9.5-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.9.5-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.9.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.9.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.9.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.9.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
@@ -55,6 +78,7 @@
     { "version": "v0.9.1-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.9.1-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.9.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.9.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.9", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.9.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.8.6-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.8.6-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.8.6-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.8.6-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.8.6", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.8.6.zip", "json": "b1.7.3", "latest": false, "supplement": null },
@@ -69,6 +93,7 @@
     { "version": "v0.8-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.8-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.8-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.8-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.8", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.8.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.7.7", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.7.7.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.7.6", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.7.6.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.7.5", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.7.5.zip", "json": "b1.7.3", "latest": false, "supplement": null },
@@ -78,12 +103,14 @@
     { "version": "v0.7.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.7.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.7.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.7.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.7", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.7.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.6.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.6.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.6.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.6.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.6.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.6.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.6.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.6.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.6-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.6-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.6", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.6.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.5.10", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.5.10.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.5.9", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.5.9.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.5.8", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.5.8.zip", "json": "b1.7.3", "latest": false, "supplement": null },
@@ -95,15 +122,19 @@
     { "version": "v0.5.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.5.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.5.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.5.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.5", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.5.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.4.5", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.4.5.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.4.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.4.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.4.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.4.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.4.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.4.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.4.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.4.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.3.1-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.3.1-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.3.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.3.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    
     { "version": "v0.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.1.zip", "json": "b1.7.3", "latest": false, "supplement": null }
 ]
