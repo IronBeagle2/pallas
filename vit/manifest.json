@@ -5,6 +5,33 @@
     { "version": "v0.20_01", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20_01.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.20", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.20.zip", "json": "b1.7.3", "latest": false, "supplement": null },
 
+    { "version": "v0.19_02-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.19_02-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.19_02", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.19_02.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.19_01", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.19_01.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.19", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.19.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
+
+    { "version": "v0.18.5", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.18.5.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.18.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.18.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.18.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.18.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.18.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.18.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.18.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.18.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.18", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.18.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
+
+    { "version": "v0.17.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.17.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.17.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.17.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.17.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.17.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.17-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.17-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.17-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.17-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.17", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.17.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
+    { "version": "v0.16.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.16.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.16", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.16.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
+    { "version": "v0.15.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.15-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.15-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.15", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.15.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.14", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.14.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.13.5", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vit-v0.13.5.zip", "json": "b1.7.3", "latest": false, "supplement": null },
