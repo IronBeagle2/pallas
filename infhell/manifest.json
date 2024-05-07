@@ -7,6 +7,6 @@
     { "version": "v0.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/infhell/infhell2-v0.4--client.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/infhell/infhell2-v0.3--client.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.2_3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/infhell/infhell2-v0.2_3--client.zip", "json": "b1.7.3", "latest": false, "supplement": null },
-    { "version": "v0.2_1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/infhell/infhell2-v0.2_1--server.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "v0.2_1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/infhell/infhell2-v0.2_1--client.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "v0.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/infhell/infhell2-v0.1--client.zip", "json": "b1.7.3", "latest": false, "supplement": null }
 ]
