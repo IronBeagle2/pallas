@@ -1,7 +1,10 @@
 [
+    { "version": "v7.2_01", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2_01/bta-7.2_01-client.jar", "json": "mod_bta", "latest": true, "supplement": null },
+    { "version": "v7.2", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2/bta-7.2-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
+    { "version": "v7.2-pre2", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-2/bta-7.2-prerelease-2-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
     { "version": "v7.2-pre1", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-1/bta-7.2-prerelease-1-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
 
-    { "version": "v7.1_01", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1_01/bta-7.1_01-client.jar", "json": "mod_bta", "latest": true, "supplement": null },
+    { "version": "v7.1_01", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1_01/bta-7.1_01-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
     { "version": "v7.1", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1/bta-7.1-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
     { "version": "combat-update", "type": "cusjar", "url": "http://pallas.dejvoss.cz/bta/bta-combat.jar", "json": "mod_bta", "latest": false, "supplement": null },
     { "version": "v7.1-pre2a", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-2a/bta-7.1-pre2a-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
