@@ -1,5 +1,23 @@
 [
     { "version": "latest", "type": "jarmod", "url": "https://www.sithgames.com/projects/minecraft/mods/voxelsintime/client_dev.zip", "json": "b1.7.3", "latest": true, "supplement": null },
+    
+    { "version": "dev-v0.24.4", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.4.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.24.3-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.3-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.24.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.24.2-3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.2-3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.24.2-2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.2-2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.24.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.24.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.24", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.24.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
+    { "version": "dev-v0.23.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.23.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.23.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.23.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.23", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.23.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+
+    { "version": "dev-v0.22.3", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.22.3.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.22.2", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.22.2.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.22.1", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.22.1.zip", "json": "b1.7.3", "latest": false, "supplement": null },
+    { "version": "dev-v0.22", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.22.zip", "json": "b1.7.3", "latest": false, "supplement": null },
 
     { "version": "dev-v0.21-20240414", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240414.zip", "json": "b1.7.3", "latest": false, "supplement": null },
     { "version": "dev-v0.21-20240413", "type": "jarmod", "url": "http://pallas.dejvoss.cz/vit/vitdev-v0.21-20240413.zip", "json": "b1.7.3", "latest": false, "supplement": null },
