@@ -1,5 +1,6 @@
 [
-    { "version": "v1.0.8_01", "type": "cusjar", "url": "http://pallas.dejvoss.cz/hybridsurvival/hybridsurvival-v1.0.8_01.jar", "json": "c0.0.14a_08", "latest": true, "supplement": null },
+    { "version": "v1.0.8_02", "type": "cusjar", "url": "http://pallas.dejvoss.cz/hybridsurvival/hybridsurvival-v1.0.8_02.jar", "json": "c0.0.14a_08", "latest": true, "supplement": null },
+    { "version": "v1.0.8_01", "type": "cusjar", "url": "http://pallas.dejvoss.cz/hybridsurvival/hybridsurvival-v1.0.8_01.jar", "json": "c0.0.14a_08", "latest": false, "supplement": null },
     { "version": "v1.0.8", "type": "cusjar", "url": "http://pallas.dejvoss.cz/hybridsurvival/hybridsurvival-v1.0.8.jar", "json": "c0.0.14a_08", "latest": false, "supplement": null },
     { "version": "v1.0.7", "type": "cusjar", "url": "http://pallas.dejvoss.cz/hybridsurvival/hybridsurvival-v1.0.7.jar", "json": "c0.0.14a_08", "latest": false, "supplement": null }
 ]
