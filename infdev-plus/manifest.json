@@ -1,3 +1,4 @@
 [
-    { "version": "v0.6.1", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v0.6.1.jar", "json": "mod_infdevplus2", "latest": true, "supplement": null }
+  	{ "version": "v1.0a-pre1", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0a-pre1.jar", "json": "mod_infdevplus2", "latest": true, "supplement": null },
+   { "version": "v0.6.1", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v0.6.1.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null }
 ]
