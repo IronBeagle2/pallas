@@ -1,3 +1,4 @@
 [
-    { "version": "stable-20240331", "type": "cusjar", "url": "http://pallas.dejvoss.cz/indev-plus/indev-plus_stable-20240331.jar", "json": "mod_indevplus", "latest": true, "supplement": null }
+	{ "version": "stable-20241230", "type": "cusjar", "url": "http://pallas.dejvoss.cz/indev-plus/indev-plus_stable-20241230.jar", "json": "mod_indevplus", "latest": true, "supplement": null },
+    { "version": "stable-20240331", "type": "cusjar", "url": "http://pallas.dejvoss.cz/indev-plus/indev-plus_stable-20240331.jar", "json": "mod_indevplus", "latest": false, "supplement": null }
 ]

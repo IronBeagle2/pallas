@@ -1,3 +1,4 @@
 [
-    { "version": "stable-20231225", "type": "cusjar", "url": "http://pallas.dejvoss.cz/classic-plus/classic-plus_stable-20231225.jar", "json": "mod_classicplus", "latest": true, "supplement": null }
+	{ "version": "stable-20241228", "type": "cusjar", "url": "http://pallas.dejvoss.cz/classic-plus/classic-plus_stable-20241228.jar", "json": "mod_classicplus", "latest": true, "supplement": null },
+    { "version": "stable-20231225", "type": "cusjar", "url": "http://pallas.dejvoss.cz/classic-plus/classic-plus_stable-20231225.jar", "json": "mod_classicplus", "latest": false, "supplement": null }
 ]
