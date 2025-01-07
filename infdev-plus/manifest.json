@@ -1,5 +1,9 @@
 [
-	{ "version": "v1.0.6-2", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.6-2.jar", "json": "mod_infdevplus2", "latest": true, "supplement": null },
+	{ "version": "v1.0.9", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.9.jar", "json": "mod_infdevplus2", "latest": true, "supplement": null },
+	{ "version": "v1.0.8", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.8.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
+	{ "version": "v1.0.7", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.7.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
+
+	{ "version": "v1.0.6-2", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.6-2.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
 	{ "version": "v1.0.6", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.6.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
 	{ "version": "v1.0.5", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.5.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
 	{ "version": "v1.0.4", "type": "cusjar", "url": "http://pallas.dejvoss.cz/infdev-plus/infdev-plus_v1.0.4.jar", "json": "mod_infdevplus2", "latest": false, "supplement": null },
