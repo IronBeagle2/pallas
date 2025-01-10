@@ -1,5 +1,6 @@
 [
-    { "version": "v3.5.1", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.5.1/NFC_v3.5.1.jar", "json": "mod_nfc", "latest": true, "supplement": null },
+    { "version": "v3.5.2", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.5.2/NFC.v3.5.2.jar", "json": "mod_nfc", "latest": true, "supplement": null },
+    { "version": "v3.5.1", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.5.1/NFC_v3.5.1.jar", "json": "mod_nfc", "latest": false, "supplement": null },
     { "version": "v3.5.0", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.5.0/NFC_v3.5.0.jar", "json": "mod_nfc", "latest": false, "supplement": null },
     { "version": "v3.5.0-pre2", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.5.0_pre-2/NFC_v3.5.0_pre-2.jar", "json": "mod_nfc", "latest": false, "supplement": null },
     { "version": "v3.5.0-pre1", "type": "jarmod", "url": "https://github.com/New-Frontier-Craft/New-Frontier-Craft/releases/download/v3.5.0_pre-1/NFC_v3.5.0_pre-1.jar", "json": "mod_nfc", "latest": false, "supplement": null },
