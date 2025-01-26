@@ -1,10 +1,11 @@
 [
+	{ "version": "v7.3", "type": "cusjar", "url": "https://downloads.betterthanadventure.net/bta-client/release/v7.3/bta.v7.3.client.jar", "json": "mod_bta", "latest": true, "supplement": null },
 	{ "version": "v7.3-pre4", "type": "cusjar", "url": "https://downloads.betterthanadventure.net/bta-client/prerelease/v7.3-pre4/bta.v7.3-pre4.client.jar", "json": "mod_bta", "latest": false, "supplement": null },
 	{ "version": "v7.3-pre3", "type": "cusjar", "url": "https://downloads.betterthanadventure.net/bta-client/prerelease/v7.3-pre3/bta.v7.3-pre3.client.jar", "json": "mod_bta", "latest": false, "supplement": null },
 	{ "version": "v7.3-pre2", "type": "cusjar", "url": "https://downloads.betterthanadventure.net/bta-client/prerelease/v7.3-pre2/bta.v7.3-pre2.client.jar", "json": "mod_bta", "latest": false, "supplement": null },
 	{ "version": "v7.3-pre1", "type": "cusjar", "url": "https://downloads.betterthanadventure.net/bta-client/prerelease/v7.3-pre1/bta.v7.3-pre1.client.jar", "json": "mod_bta", "latest": false, "supplement": null },
 
-   { "version": "v7.2_01", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2_01/bta-7.2_01-client.jar", "json": "mod_bta", "latest": true, "supplement": null },
+   { "version": "v7.2_01", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2_01/bta-7.2_01-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
    { "version": "v7.2", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2/bta-7.2-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
    { "version": "v7.2-pre2", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-2/bta-7.2-prerelease-2-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
    { "version": "v7.2-pre1", "type": "cusjar", "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-1/bta-7.2-prerelease-1-client.jar", "json": "mod_bta", "latest": false, "supplement": null },
